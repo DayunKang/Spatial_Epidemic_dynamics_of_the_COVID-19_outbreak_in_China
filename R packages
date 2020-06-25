@@ -1,0 +1,2 @@
+For Moran's I, I used "ape" package and "Moran.I" function.
+For map projection and distance calculation, I used "mapproj" and "fields" package.
